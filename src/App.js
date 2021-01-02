@@ -1,7 +1,8 @@
 import React from 'react'
+import BlurryLoading from './components/BlurryLoading'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <BlurryLoading />
 }
 
 export default App
